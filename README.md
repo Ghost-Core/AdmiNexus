@@ -1,6 +1,7 @@
 # AdmiNexus - React Admin Dashboard
 
 AdmiNexus is a modern and powerful admin dashboard built using the latest technologies in React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid. This application is designed to provide a user-friendly and visually appealing interface to help manage your data, create charts, tables, and forms, and schedule events with ease.
+
 Check out the complete project [here](https://adminexus.aminahmadi.me/)
 
 ## Features
